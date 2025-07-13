@@ -3,7 +3,7 @@
 Wanderlust is a full-stack travel listing web application inspired by Airbnb. It allows users to browse, create, update, and review travel destinations across the globe. With integrated user authentication, image uploads, map visualizations, and session management, it offers a robust and scalable platform for travel enthusiasts.
 
 ### 🔗 Live Demo
-➡️ [https://wanderlust-d7ui.onrender.com](https://wanderlust-d7ui.onrender.com)
+➡️ [https://wanderlust-d7ui.onrender.com](https://wanderlust-d7ui.onrender.com/listings)
 
 ---
 
